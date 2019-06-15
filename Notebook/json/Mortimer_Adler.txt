@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Mortimer Adler", "from": "Mortimer_Adler"}], "pages": {"26278666": {"ns": 0, "pageid": 26278666, "revisions": [{"*": "#REDIRECT [[Mortimer J. Adler]]\n[[Category:Unprintworthy redirects]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Mortimer Adler"}}}}

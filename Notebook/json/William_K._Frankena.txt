@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "William K. Frankena", "from": "William_K._Frankena"}], "pages": {"8667361": {"ns": 0, "pageid": 8667361, "revisions": [{"*": "#REDIRECT [[William Frankena]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "William K. Frankena"}}}}

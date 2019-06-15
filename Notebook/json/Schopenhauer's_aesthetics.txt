@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Schopenhauer's aesthetics", "from": "Schopenhauer's_aesthetics"}], "pages": {"11956246": {"ns": 0, "pageid": 11956246, "revisions": [{"*": "#REDIRECT [[Arthur Schopenhauer's aesthetics]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Schopenhauer's aesthetics"}}}}

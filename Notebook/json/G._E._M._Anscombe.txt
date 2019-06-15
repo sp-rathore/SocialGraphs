@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "G. E. M. Anscombe", "from": "G._E._M._Anscombe"}], "pages": {"48732973": {"ns": 0, "pageid": 48732973, "revisions": [{"*": "#REDIRECT [[Elizabeth Anscombe]]\n{{R from move}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "G. E. M. Anscombe"}}}}

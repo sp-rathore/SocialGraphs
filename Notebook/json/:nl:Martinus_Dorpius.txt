@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"interwiki": [{"iw": "nl", "title": "nl:Martinus Dorpius"}], "normalized": [{"to": "nl:Martinus Dorpius", "from": ":nl:Martinus_Dorpius"}]}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Peter of Spain (author)", "from": "Peter_of_Spain_(author)"}], "pages": {"48442722": {"ns": 0, "pageid": 48442722, "revisions": [{"*": "#REDIRECT [[Peter of Spain]]\n\n{{redr|from move}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Peter of Spain (author)"}}}}

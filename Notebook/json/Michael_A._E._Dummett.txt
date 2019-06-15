@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Michael A. E. Dummett", "from": "Michael_A._E._Dummett"}], "pages": {"1186984": {"ns": 0, "pageid": 1186984, "revisions": [{"*": "#REDIRECT [[Michael Dummett]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Michael A. E. Dummett"}}}}

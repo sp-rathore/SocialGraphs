@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Etienne Gilson", "from": "Etienne_Gilson"}], "pages": {"2624141": {"ns": 0, "pageid": 2624141, "revisions": [{"*": "#redirect [[Étienne Gilson]]\n{{R from title without diacritics}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Etienne Gilson"}}}}

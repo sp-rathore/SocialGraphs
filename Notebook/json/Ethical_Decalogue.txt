@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Ethical Decalogue", "from": "Ethical_Decalogue"}], "pages": {"2978321": {"ns": 0, "pageid": 2978321, "revisions": [{"*": "#REDIRECT [[Ten Commandments]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Ethical Decalogue"}}}}

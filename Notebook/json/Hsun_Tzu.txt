@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Hsun Tzu", "from": "Hsun_Tzu"}], "pages": {"730568": {"ns": 0, "pageid": 730568, "revisions": [{"*": "#REDIRECT [[Xun Kuang]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Hsun Tzu"}}}}

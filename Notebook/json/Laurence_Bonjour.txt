@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Laurence Bonjour", "from": "Laurence_Bonjour"}], "pages": {"5034473": {"ns": 0, "pageid": 5034473, "revisions": [{"*": "#REDIRECT [[Laurence BonJour]] {{R from other capitalisation}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Laurence Bonjour"}}}}

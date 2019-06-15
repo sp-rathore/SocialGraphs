@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Garry Hagberg", "from": "Garry_Hagberg"}], "pages": {"6145949": {"ns": 0, "pageid": 6145949, "revisions": [{"*": "#REDIRECT [[Garry L. Hagberg]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Garry Hagberg"}}}}

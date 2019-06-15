@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "W.K. Wimsatt", "from": "W.K._Wimsatt"}], "pages": {"2601233": {"ns": 0, "pageid": 2601233, "revisions": [{"*": "#REDIRECT [[William K. Wimsatt]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "W.K. Wimsatt"}}}}

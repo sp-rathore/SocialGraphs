@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Willard V. O. Quine", "from": "Willard_V._O._Quine"}], "pages": {"15589709": {"ns": 0, "pageid": 15589709, "revisions": [{"*": "#REDIRECT [[Willard Van Orman Quine]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Willard V. O. Quine"}}}}

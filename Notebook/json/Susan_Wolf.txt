@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Susan Wolf", "from": "Susan_Wolf"}], "pages": {"37755595": {"ns": 0, "pageid": 37755595, "revisions": [{"*": "#REDIRECT [[Susan R. Wolf]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Susan Wolf"}}}}

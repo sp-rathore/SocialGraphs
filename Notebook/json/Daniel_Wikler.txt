@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Daniel Wikler", "from": "Daniel_Wikler"}], "pages": {"30629352": {"ns": 0, "pageid": 30629352, "revisions": [{"*": "#REDIRECT [[Dan Wikler]]\n{{R from full name}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Daniel Wikler"}}}}

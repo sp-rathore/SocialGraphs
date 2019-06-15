@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Sam Murgatroyd", "from": "Sam_Murgatroyd"}], "pages": {"-1": {"ns": 0, "missing": "", "title": "Sam Murgatroyd"}}}}

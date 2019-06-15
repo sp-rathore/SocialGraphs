@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Proclus Lycaeus", "from": "Proclus_Lycaeus"}], "pages": {"31319191": {"ns": 0, "pageid": 31319191, "revisions": [{"*": "#redirect [[Proclus]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Proclus Lycaeus"}}}}

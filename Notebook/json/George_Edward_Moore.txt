@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "George Edward Moore", "from": "George_Edward_Moore"}], "pages": {"26006572": {"ns": 0, "pageid": 26006572, "revisions": [{"*": "#REDIRECT [[G. E. Moore]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "George Edward Moore"}}}}

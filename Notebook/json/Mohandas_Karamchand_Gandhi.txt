@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Mohandas Karamchand Gandhi", "from": "Mohandas_Karamchand_Gandhi"}], "pages": {"14341705": {"ns": 0, "pageid": 14341705, "revisions": [{"*": "#REDIRECT [[Mahatma Gandhi]]\n\n{{Redr|move|long|printworthy|semiprotected}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Mohandas Karamchand Gandhi"}}}}

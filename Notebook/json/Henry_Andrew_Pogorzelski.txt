@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Henry Andrew Pogorzelski", "from": "Henry_Andrew_Pogorzelski"}], "pages": {"27449345": {"ns": 0, "pageid": 27449345, "revisions": [{"*": "#REDIRECT [[Henry Pogorzelski]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Henry Andrew Pogorzelski"}}}}

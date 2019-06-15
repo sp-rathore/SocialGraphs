@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "G.W.F. Hegel", "from": "G.W.F._Hegel"}], "pages": {"223248": {"ns": 0, "pageid": 223248, "revisions": [{"*": "#REDIRECT [[Georg Wilhelm Friedrich Hegel]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "G.W.F. Hegel"}}}}

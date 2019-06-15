@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Edward Hundert", "from": "Edward_Hundert"}], "pages": {"4178000": {"ns": 0, "pageid": 4178000, "revisions": [{"*": "#redirect [[Edward M. Hundert]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Edward Hundert"}}}}

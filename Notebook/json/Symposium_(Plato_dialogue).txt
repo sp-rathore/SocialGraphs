@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Symposium (Plato dialogue)", "from": "Symposium_(Plato_dialogue)"}], "pages": {"5075308": {"ns": 0, "pageid": 5075308, "revisions": [{"*": "#REDIRECT [[Symposium (Plato)]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Symposium (Plato dialogue)"}}}}

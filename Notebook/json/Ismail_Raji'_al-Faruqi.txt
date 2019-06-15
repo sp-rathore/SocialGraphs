@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Ismail Raji' al-Faruqi", "from": "Ismail_Raji'_al-Faruqi"}], "pages": {"1212033": {"ns": 0, "pageid": 1212033, "revisions": [{"*": "#REDIRECT [[Ismail al-Faruqi]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Ismail Raji' al-Faruqi"}}}}

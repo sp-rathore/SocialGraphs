@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Fazlur Rahman", "from": "Fazlur_Rahman"}], "pages": {"18958919": {"ns": 0, "pageid": 18958919, "revisions": [{"*": "#REDIRECT [[Fazlur Rahman Malik]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Fazlur Rahman"}}}}

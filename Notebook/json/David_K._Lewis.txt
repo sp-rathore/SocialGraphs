@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "David K. Lewis", "from": "David_K._Lewis"}], "pages": {"418695": {"ns": 0, "pageid": 418695, "revisions": [{"*": "#REDIRECT [[David Lewis (philosopher)]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "David K. Lewis"}}}}

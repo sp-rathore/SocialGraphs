@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Tomek Pietkiewicz", "from": "Tomek_Pietkiewicz"}], "pages": {"-1": {"ns": 0, "missing": "", "title": "Tomek Pietkiewicz"}}}}

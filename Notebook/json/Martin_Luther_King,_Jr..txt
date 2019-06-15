@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Martin Luther King, Jr.", "from": "Martin_Luther_King,_Jr."}], "pages": {"51109457": {"ns": 0, "pageid": 51109457, "revisions": [{"*": "#REDIRECT [[Martin Luther King Jr.]]\n{{R from move}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Martin Luther King, Jr."}}}}

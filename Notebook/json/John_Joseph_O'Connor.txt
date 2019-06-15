@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "John Joseph O'Connor", "from": "John_Joseph_O'Connor"}], "pages": {"47338700": {"ns": 0, "pageid": 47338700, "revisions": [{"*": "#REDIRECT [[John O'Connor (cardinal)]]\n{{R from move}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "John Joseph O'Connor"}}}}

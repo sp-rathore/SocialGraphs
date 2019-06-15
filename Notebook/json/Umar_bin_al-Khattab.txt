@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Umar bin al-Khattab", "from": "Umar_bin_al-Khattab"}], "pages": {"15803044": {"ns": 0, "pageid": 15803044, "revisions": [{"*": "#REDIRECT [[Umar]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Umar bin al-Khattab"}}}}

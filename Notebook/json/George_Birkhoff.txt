@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "George Birkhoff", "from": "George_Birkhoff"}], "pages": {"2541820": {"ns": 0, "pageid": 2541820, "revisions": [{"*": "#REDIRECT [[George David Birkhoff]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "George Birkhoff"}}}}

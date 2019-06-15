@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Friedrich Daniel Ernst Schleiermacher", "from": "Friedrich_Daniel_Ernst_Schleiermacher"}], "pages": {"29657713": {"ns": 0, "pageid": 29657713, "revisions": [{"*": "#REDIRECT [[Friedrich Schleiermacher]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Friedrich Daniel Ernst Schleiermacher"}}}}

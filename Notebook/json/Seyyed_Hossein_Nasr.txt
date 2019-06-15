@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Seyyed Hossein Nasr", "from": "Seyyed_Hossein_Nasr"}], "pages": {"7842848": {"ns": 0, "pageid": 7842848, "revisions": [{"*": "#REDIRECT [[Hossein Nasr]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Seyyed Hossein Nasr"}}}}

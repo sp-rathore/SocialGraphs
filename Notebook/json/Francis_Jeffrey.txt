@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Francis Jeffrey", "from": "Francis_Jeffrey"}], "pages": {"9296694": {"ns": 0, "pageid": 9296694, "revisions": [{"*": "#REDIRECT [[Francis Jeffrey, Lord Jeffrey]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Francis Jeffrey"}}}}

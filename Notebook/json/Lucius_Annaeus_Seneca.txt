@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Lucius Annaeus Seneca", "from": "Lucius_Annaeus_Seneca"}], "pages": {"2622953": {"ns": 0, "pageid": 2622953, "revisions": [{"*": "#REDIRECT [[Seneca the Younger]]{{R from full name}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Lucius Annaeus Seneca"}}}}

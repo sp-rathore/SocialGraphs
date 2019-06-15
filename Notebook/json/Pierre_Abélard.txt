@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Pierre Abélard", "from": "Pierre_Abélard"}], "pages": {"3156554": {"ns": 0, "pageid": 3156554, "revisions": [{"*": "#REDIRECT [[Peter Abelard]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Pierre Abélard"}}}}

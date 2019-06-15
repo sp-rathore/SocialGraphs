@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Oliver Wendell Holmes, Jr.", "from": "Oliver_Wendell_Holmes,_Jr."}], "pages": {"224818": {"ns": 0, "pageid": 224818, "revisions": [{"*": "#REDIRECT [[Oliver Wendell Holmes Jr.]]\n{{R from modification}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Oliver Wendell Holmes, Jr."}}}}

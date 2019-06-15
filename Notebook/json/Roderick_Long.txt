@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Roderick Long", "from": "Roderick_Long"}], "pages": {"41418114": {"ns": 0, "pageid": 41418114, "revisions": [{"*": "#REDIRECT [[Roderick T. Long]]{{R from alternative name}}", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Roderick Long"}}}}

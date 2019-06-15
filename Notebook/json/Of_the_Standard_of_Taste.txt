@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Of the Standard of Taste", "from": "Of_the_Standard_of_Taste"}], "pages": {"14674627": {"ns": 0, "pageid": 14674627, "revisions": [{"*": "#REDIRECT [[Four Dissertations]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Of the Standard of Taste"}}}}

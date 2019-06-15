@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Maurice Brinton", "from": "Maurice_Brinton"}], "pages": {"37392855": {"ns": 0, "pageid": 37392855, "revisions": [{"*": "#REDIRECT [[Chris Pallis]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Maurice Brinton"}}}}

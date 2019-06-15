@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "David Friedrich Strauss", "from": "David_Friedrich_Strauss"}], "pages": {"23953862": {"ns": 0, "pageid": 23953862, "revisions": [{"*": "#REDIRECT [[David Strauss]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "David Friedrich Strauss"}}}}

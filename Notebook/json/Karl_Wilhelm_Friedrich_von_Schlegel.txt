@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Karl Wilhelm Friedrich von Schlegel", "from": "Karl_Wilhelm_Friedrich_von_Schlegel"}], "pages": {"7837707": {"ns": 0, "pageid": 7837707, "revisions": [{"*": "#REDIRECT [[Karl Wilhelm Friedrich Schlegel]]", "contentmodel": "wikitext", "contentformat": "text/x-wiki"}], "title": "Karl Wilhelm Friedrich von Schlegel"}}}}
